@@ -1,4 +1,4 @@
-Game Theory | Learning Project – Summer of Science (Summer ’23)
+# Game Theory | Learning Project – Summer of Science (Summer ’23)
 Maths and Physics Club, IIT Bombay
 • Studied Pure and Mixed Strategy Nash Equilibrium, Pareto dominance, Normal and Extensive form games,
 Risk Attitudes, Incomplete and Imperfect Information Games, Signaling Games and Equilibrium Concepts
